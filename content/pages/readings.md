@@ -32,7 +32,7 @@ READINGS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Frieze, Alan, and Nicholas C. Wormald. "Random k-SAT: A Tight Threshold for Moderately Growing k." _Combinatorica_ 25, no. 3 (2005): 297-305. ([PDF](https://link.springer.com/article/10.1007%2Fs00493-005-0017-3))
+Frieze, Alan, and Nicholas C. Wormald. "Random k-SAT: A Tight Threshold for Moderately Growing k." _Combinatorica_ 25, no. 3 (2005): 297-305. ({{% resource_link "cee178d3-7fd7-41e8-885f-12087d30a823" "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -41,7 +41,7 @@ Frieze, Alan, and Nicholas C. Wormald. "Random k-SAT: A Tight Threshold for Mode
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Achlioptas, Dimitris, and Assaf Naor. "The Two Possible Values of the Chromatic Number of a Random Graph." _Annals of Mathematics_ 162, no. 3 (2005): 1335-1351. ([PDF](https://web.math.princeton.edu/~naor/homepage%20files/chromatic.pdf))
+Achlioptas, Dimitris, and Assaf Naor. "The Two Possible Values of the Chromatic Number of a Random Graph." _Annals of Mathematics_ 162, no. 3 (2005): 1335-1351. ({{% resource_link "d0d25f97-5941-4386-9c56-3dcfb5dbf3ce" "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +65,7 @@ Kelly, F. P. "Stochastic Models of Computer Communication Systems (in A Symposiu
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Weitz, D. "Counting Independent Sets up to the Tree Threshold." ([PDF](https://web.stanford.edu/~montanar/TEACHING/Stat375/papers/weitz2.pdf))
+Weitz, D. "Counting Independent Sets up to the Tree Threshold." ({{% resource_link "e1b14447-bdf4-4292-8562-7dfe2b63984f" "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +74,7 @@ Weitz, D. "Counting Independent Sets up to the Tree Threshold." ([PDF](https://w
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Aldous, D., and J. Steele. "The Objective Method: Probabilistic Combinatorial Optimization and Local Weak Convergence." In _Probability on Discrete Structures_. Edited by Harry Kesten. New York, NY: Springer-Verlag, 2003. ISBN: 3540008454. ([PS](http://www-stat.wharton.upenn.edu/~steele/Publications/PDF/OMSurvey.ps))
+Aldous, D., and J. Steele. "The Objective Method: Probabilistic Combinatorial Optimization and Local Weak Convergence." In _Probability on Discrete Structures_. Edited by Harry Kesten. New York, NY: Springer-Verlag, 2003. ISBN: 3540008454. ({{% resource_link "bcd4b561-eda3-42e4-ba2d-0ea6d38c9450" "PS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +83,7 @@ Aldous, D., and J. Steele. "The Objective Method: Probabilistic Combinatorial Op
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Gamarnik, David, Tomasz Nowicki, and Grzegorz Swirszcz. "[Maximum Weight Independent Sets and Matchings in Sparse Random Graphs. Exact Results Using the Local Weak Convergence Method](http://portal.acm.org/citation.cfm?id=1107412)." _Random Structures and Algorithms_ 28, no. 1 (2006): 76-106.
+Gamarnik, David, Tomasz Nowicki, and Grzegorz Swirszcz. "{{% resource_link "3efaf8b2-bf69-4b3d-bcb7-df2cc125b01d" "Maximum Weight Independent Sets and Matchings in Sparse Random Graphs. Exact Results Using the Local Weak Convergence Method" %}}." _Random Structures and Algorithms_ 28, no. 1 (2006): 76-106.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +98,7 @@ Gamarnik, David, Tomasz Nowicki, and Grzegorz Swirszcz. "[Maximum Weight Indepen
 7-8
 {{< tdclose >}}
 {{< tdopen >}}
-Wainwright, M. J., and M. I. Jordan. "Graphical Models, Exponential Families and Variational Inference." UC Berkeley, Dept. of Statistics, Technical Report 649 (2003). ([PS - 1.7 MB](http://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJorVariational03.ps))
+Wainwright, M. J., and M. I. Jordan. "Graphical Models, Exponential Families and Variational Inference." UC Berkeley, Dept. of Statistics, Technical Report 649 (2003). ({{% resource_link "358f01c2-abc4-4fbe-af90-5df6d5d95b34" "PS - 1.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +107,7 @@ Wainwright, M. J., and M. I. Jordan. "Graphical Models, Exponential Families and
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Bayati, M., D. Shah, and M. Sharma. "Maximum Weight Matching via Max-product Belief Propagation." [International Symposium on Information Theory](http://www.isit2008.org/), Proceedings (2005): 1763-1767.
+Bayati, M., D. Shah, and M. Sharma. "Maximum Weight Matching via Max-product Belief Propagation." {{% resource_link "237be542-0380-472c-894d-a2df5e6bb1bf" "International Symposium on Information Theory" %}}, Proceedings (2005): 1763-1767.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +116,7 @@ Bayati, M., D. Shah, and M. Sharma. "Maximum Weight Matching via Max-product Bel
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Richardson, T., and R. Urbanke. [_Modern Coding Theory_](http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521852296). Cambridge, UK: Cambridge University Press, 2006, chapters 1 and 2. (Forthcoming)
+Richardson, T., and R. Urbanke. {{% resource_link "ca470c33-e0e0-4443-b42d-75443ec4b81a" "_Modern Coding Theory_" %}}. Cambridge, UK: Cambridge University Press, 2006, chapters 1 and 2. (Forthcoming)
 {{< tdclose >}}
 
 {{< trclose >}}
