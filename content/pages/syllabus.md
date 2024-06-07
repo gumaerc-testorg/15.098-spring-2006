@@ -18,7 +18,7 @@ This is a doctoral student seminar covering current topics in applied probabilit
 
 ## Prerequisite
 
-The course requires knowledge of optimization, probability and algorithms. A basic course on probability ([6.041/6.431](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006)) is necessary. An advanced graduate course in probability ({{% resource_link "d1d73c32-ded2-4e23-a28f-dde3e7873a02" "6.436J/15.085J" %}}) will be very useful.
+The course requires knowledge of optimization, probability and algorithms. A basic course on probability ([6.041/6.431](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006)) is necessary. An advanced graduate course in probability ([6.436J/15.085J](https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018/)) will be very useful.
 
 ## Course Policy
 
